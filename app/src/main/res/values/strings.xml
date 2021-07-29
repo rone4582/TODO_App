@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TODO App</string>
+    <string name="undefined_category">Other</string>
+    <string name="apply">Apply</string>
+</resources>

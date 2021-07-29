@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "658032917864",
+    "firebase_url": "https://notes-759d1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "notes-759d1",
+    "storage_bucket": "notes-759d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658032917864:android:30bba3740d2dfede6a6add",
+        "android_client_info": {
+          "package_name": "com.myapplication.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658032917864-8mmk68v134tro5fuj2k0bjsogu0n8mfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapplication.todoapp",
+            "certificate_hash": "dfc0c8ec0959ae63ffb58a692a90729c7da90229"
+          }
+        },
+        {
+          "client_id": "658032917864-ljoegek8i2mbfecjtrn41g856rgtfjoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtUwmgmOsy_fOdLgbzCR-KwDo3d9zFWLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658032917864-ljoegek8i2mbfecjtrn41g856rgtfjoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
